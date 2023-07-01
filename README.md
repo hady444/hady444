@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**hady444/hady444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Hady, a joinur data analyst and software engineer </div>  
+  
+  
+- 🌱 I’m currently learning machine learning concepts besides data science tools  
+  
 
-Here are some ideas to get you started:
+- ❓ Ask me about anything related to data usage and how to utilize it  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+<br/>  
+
