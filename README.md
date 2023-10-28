@@ -16,7 +16,7 @@ I'm always excited to connect with fellow developers, collaborate on projects, o
 
 - 📧 Email: 4husns@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/hady-hassan-7a4436239/
-- 𝕏 X: https://twitter.com/Hady_4h
+- 𝕏 https://twitter.com/Hady_4h
 
 Let's create something awesome together! 🚀
 
