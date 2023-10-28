@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate student in software engineering 
 - 💻 Skilled in C, Python, C#, Java, HTML and Power BI.
 - 🌱 Currently diving deep into the exciting world of machine learning.
 - 🤩 Enthusiastic about problem-solving and always eager to learn new technologies.
-- 
+
 ## Get in Touch
 
 I'm always excited to connect with fellow developers, collaborate on projects, or simply have a chat. Feel free to reach out to me through the following channels:
