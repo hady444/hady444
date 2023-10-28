@@ -3,12 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Hady, a joinur data analyst and software engineer </div>  
+### <div align="center">I'm Hady, a software engineer and passionate about data</div>  
   
   
 - 🌱 I’m currently learning machine learning concepts besides data science tools  
   
-
 - ❓ Ask me about anything related to data usage and how to utilize it  
   
 
