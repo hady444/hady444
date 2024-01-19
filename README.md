@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate student in software engineering 
 ## About Me
 
 - 🎓 Currently studying software engineering at ALX SE.
-- 💻 Skilled in C, Python, C#, Java, MYSQL, HTML and Power BI.
+- 💻 Skilled in C, Python, C#, Java, MYSQL, HTML, CSS and Power BI.
 - 🌱 Currently diving deep into the exciting world of machine learning.
 - 🤩 Enthusiastic about problem-solving and always eager to learn new technologies.
 
