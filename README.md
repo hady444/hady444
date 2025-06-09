@@ -1,22 +1,24 @@
-# Hello, Here is Hady Hassan! 👋
+# Hello, I'm Hady Hassan! 👋
 
-Welcome to my GitHub profile! I am a passionate student in software engineering at ALX SE. I love exploring the world of code and constantly expanding my knowledge and skills. Here, you'll find a collection of my projects, experiments, and adventures in the realm of technology.
+Welcome to my GitHub profile! I’m an AI Engineer specializing in Generative AI, Large Language Models (LLMs), and intelligent chatbot systems. My focus is on building advanced AI solutions using cutting-edge techniques like Retrieval-Augmented Generation (RAG) and AI agent frameworks. Here, you'll find my latest work in AI engineering, experiments with LLMs, and contributions to innovative real-world applications.
 
 ## About Me
 
-- 🎓 Currently studying software engineering at ALX SE.
-- 💻 Skilled in C, Python, C#, Java, MYSQL, HTML, CSS and Power BI.
-- 🌱 Currently diving deep into the exciting world of machine learning.
-- 🤩 Enthusiastic about problem-solving and always eager to learn new technologies.
+- 🤖 AI Engineer focused on Generative AI, LLMs, RAG systems, and autonomous AI agents.  
+- 🧠 Experienced in building intelligent chatbots and context-aware assistants.  
+- 💻 Skilled in Python, C, Java, SQL, and data analysis tools including Power BI.  
+- 📊 Passionate about transforming raw data into actionable insights.  
+- 🧪 Constantly exploring the frontiers of machine learning and natural language processing.  
+- 🚀 Love solving real-world problems through AI and data-driven solutions.
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers, collaborate on projects, or simply have a chat. Feel free to reach out to me through the following channels:
+I'm always open to collaborations, brainstorming AI projects, or just geeking out over new technologies. Feel free to reach out:
 
-- 📧 Email: 4husns@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/hady-hassan-7a4436239/
-- 𝕏 https://twitter.com/Hady_4h
+- 📧 Email: 4husns@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/hadyhassan4h](https://www.linkedin.com/in/hadyhassan4h)  
+- 𝕏 Twitter: [@Hady_4h](https://twitter.com/Hady_4h)
 
-Let's create something awesome together! 🚀
+Let’s build the future of AI together! 🌐🤝
 
-Thank you for visiting my GitHub profile! Don't forget to star ⭐️ your favorite repositories. Happy coding! 😄
+Thanks for stopping by! ⭐ Feel free to explore my repositories and follow along on this AI journey. Happy coding! 😄
